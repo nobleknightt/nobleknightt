@@ -1,2 +1,13 @@
-:wave:
-`Learning:` [`Python`](https://www.python.org/) [`Flask`](https://flask.palletsprojects.com) [`Selenium`](https://pypi.org/project/selenium) [`C++`](https://gcc.gnu.org/onlinedocs/libstdc++/index.html) [`MySQL`](https://dev.mysql.com/) [`Java`](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/javascript) [`React`](https://reactjs.org/) [`Go`](https://go.dev/) [`Rust`](https://www.rust-lang.org/) [`Dart`](https://dart.dev/) [`Flutter`](https://flutter.dev/)
+:wave: Hi, my name is Ajay. I am developer, trying to craft softwares (not succeeded in that so far :stuck_out_tongue:).  
+So far, I have used, Python, FastAPI, JavaScript, React, TailwindCSS and Selenium.
+
+I love learning anything (even remotely) related to software development - mostly the internals of any software.
+
+Currently, I am learning,
+- Golang
+- AWS
+
+Some of my favourite things are,
+- List comprehension in Python (loves to one-liners whenever possible)
+- React + TailwindCSS + Vite (best for my not-so-good projects)
+- Github Actions (Give it a try)
