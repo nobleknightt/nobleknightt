@@ -12,3 +12,8 @@ Some of my favourite things are,
 - List comprehension in Python (loves to one-liners whenever possible)
 - React + TailwindCSS + Vite (best for my not-so-good projects)
 - Github Actions (Give it a try)
+
+
+Also, I like to read technical blogs. I have listed them [here](https://er-knight.github.io/blogs/).  
+Do you participate in Programming Contests? [This](https://er-knight.github.io/contests/) might come handy.  
+Do you like anime? [This](http://animeshare.onrender.com/) might be of your interest.
