@@ -1,4 +1,5 @@
-:wave: Hi, my name is Ajay. I am developer, trying to craft softwares (not succeeded in that so far :stuck_out_tongue:).  
+#### :wave: Hi, my name is Ajay. 
+I am developer, trying to craft softwares (not succeeded in that so far :stuck_out_tongue:).  
 So far, I have used, Python, FastAPI, JavaScript, React, TailwindCSS and Selenium.
 
 I love learning anything (even remotely) related to software development - mostly the internals of any software.
