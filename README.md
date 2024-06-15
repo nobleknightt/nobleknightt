@@ -13,6 +13,7 @@ Some of my favourite things are,
 - React + TailwindCSS + Vite (best for my not-so-good projects)
 - Github Actions (Give it a try)
 
+I am interested in Compiler Design, Cryptography, Machine Learning, 
 
 Also, I like to read technical blogs. I have listed them [here](https://er-knight.github.io/blogs/).  
 Do you participate in Programming Contests? [This](https://er-knight.github.io/contests/) might come handy.  
