@@ -1,8 +1,14 @@
-:wave: Hi, my name is Ajay.  
-I write code (really), build softwares (that's what I think), (try) to solve LeetCode problems (there are really hard to solve for me).   
-Sometimes I build random things and (try to learn random things). I am trying to learn every programming language out there (and now I am lost).
+## Hi there! 👋
 
-By the way, nice to see you here :blush:. Have a good day!
+My name is **Ajay**. I'm a developer who loves to write code, build software, and solve problems (though, sometimes those problems are tougher than they seem! 😅).
+
+### What I do:
+- Building random projects (because why not?) and learning new things (hopefully)
+- Trying to solve LeetCode problems (they are challenging, but that's the fun part!)
+- Learning a new programming language (or two… or three... okay, maybe more)
+- Enjoying anything software-related—especially diving into the internals and how things work under the hood! (still figuring it out! 😅)
+
+By the way, nice to see you here! 😊 Hope you're having a great day!
 
 <!--
 
