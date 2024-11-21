@@ -3,12 +3,16 @@
 My name is **Ajay**. I'm a developer who loves to write code, build software, and solve problems (though, sometimes those problems are tougher than they seem! 😅).
 
 ### What I do:
-- Building random projects (because why not?) and learning new things (hopefully)
-- Trying to solve LeetCode problems (they are challenging, but that's the fun part!)
+- Building random projects (because why not?) and learning new things (hopefully) 🌱
+- Trying to solve LeetCode problems (they are challenging 🤯, but that's the fun part!)
 - Learning a new programming language (or two… or three... okay, maybe more)
 - Enjoying anything software-related—especially diving into the internals and how things work under the hood! (still figuring it out! 😅)
 
 By the way, nice to see you here! 😊 Hope you're having a great day!
+
+<h1></h1>
+
+Meanwhile, you can check some of my projects. (It's not much, but honest work! 😊)
 
 <!--
 
