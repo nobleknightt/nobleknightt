@@ -12,6 +12,12 @@ By the way, nice to see you here! 😊 Hope you're having a great day!
 
 <h1></h1>
 
+After lots of procrastination and chasing perfection, I can finally and quietly agree with this quote:
+> "Anything worth doing is worth doing poorly ― until you learn to do it well."  
+> ― Steve Brown 
+
+<h1></h1>
+
 Meanwhile, you can check some of my projects. (It's not much, but honest work! 😊)
 
 <!--
